@@ -19,5 +19,7 @@ https://www.liuyebin.com/havatar/
 
 ### 🖼 Output
 
+https://github.com/camenduru/havatar-colab/assets/54370274/425202a2-a08c-412a-b088-c908c447ad0f
+
 ### 🏢 Sponsor
 https://modelslab.com
